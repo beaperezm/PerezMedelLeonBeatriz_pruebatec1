@@ -1,4 +1,3 @@
-# Empleados
 
 ![logo](https://github.com/beaperezm/PerezMedelBeatriz_pruebatec1/assets/113792109/0894bc97-f17d-448c-849c-73b583456b54)
 
