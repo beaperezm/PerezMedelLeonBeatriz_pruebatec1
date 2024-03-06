@@ -10,15 +10,31 @@ Empleados es el desarrollo del backend lógico para la aplicación de gestión d
 
 El usuario puede:
 
-✅ Insertar empleados: con el nombre, apellidos, cargo, salario y fecha de inicio en la empresa (poner imagen)
+✅ Insertar empleados: el nombre, apellidos, cargo, salario y fecha de inicio
 
-✅ Ver qué empleados hay dados de alta en la base de datos (poner imagen)
+![Insertando usuario](https://github.com/beaperezm/PerezMedelBeatriz_pruebatec1/assets/113792109/213276fb-16cd-4109-9cea-e2b169331aea)
 
-✅ Actualizar los datos de los empleados (poner imagen)
 
-✅ Eliminar empleados (poner imagen)
+✅ Ver qué empleados hay dados de alta en la base de datos
 
-✅ Buscar empleados por su cargo - mostrando la información de dichos empleados (poner imagen)
+![listandoEmpleados](https://github.com/beaperezm/PerezMedelBeatriz_pruebatec1/assets/113792109/6d7c7670-2423-4140-834a-345051703fcb)
+
+
+✅ Actualizar los datos de los empleados
+
+![actualizanddo empleado](https://github.com/beaperezm/PerezMedelBeatriz_pruebatec1/assets/113792109/1bc39edd-0c1b-45ef-b278-903dafaae4a4)
+
+
+✅ Eliminar empleados
+
+![Usuario eliminado](https://github.com/beaperezm/PerezMedelBeatriz_pruebatec1/assets/113792109/9476b67e-bf53-4198-853a-fafb91803ccb)
+
+
+✅ Buscar empleados por su cargo - mostrando la información de dichos empleados
+
+![filtrando por cargo](https://github.com/beaperezm/PerezMedelBeatriz_pruebatec1/assets/113792109/34f9694f-040d-4531-9be5-ee95379706c8)
+
+
 
 El objetivo es que se realice un CRUD (Crear, Leer, Actualizar, Borrar) conectado directamente con la base de datos
 
