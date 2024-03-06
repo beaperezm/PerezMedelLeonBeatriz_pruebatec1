@@ -11,9 +11,13 @@ Empleados es el desarrollo del backend lógico para la aplicación de gestión d
 El usuario puede:
 
 ✅ Insertar empleados: con el nombre, apellidos, cargo, salario y fecha de inicio en la empresa (poner imagen)
+
 ✅ Ver qué empleados hay dados de alta en la base de datos (poner imagen)
+
 ✅ Actualizar los datos de los empleados (poner imagen)
+
 ✅ Eliminar empleados (poner imagen)
+
 ✅ Buscar empleados por su cargo - mostrando la información de dichos empleados (poner imagen)
 
 El objetivo es que se realice un CRUD (Crear, Leer, Actualizar, Borrar) conectado directamente con la base de datos
