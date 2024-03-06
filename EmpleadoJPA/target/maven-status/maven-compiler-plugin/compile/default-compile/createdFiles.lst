@@ -1,0 +1,9 @@
+proyectoempleado\empleadojpa\EmpleadoJPA.class
+proyectoempleado\empleadojpa\logica\Empleado.class
+proyectoempleado\empleadojpa\logica\Empleado_.class
+proyectoempleado\empleadojpa\logica\Controladora.class
+proyectoempleado\empleadojpa\persistencia\exceptions\PreexistingEntityException.class
+proyectoempleado\empleadojpa\persistencia\exceptions\IllegalOrphanException.class
+proyectoempleado\empleadojpa\persistencia\EmpleadoJpaController.class
+proyectoempleado\empleadojpa\persistencia\exceptions\NonexistentEntityException.class
+proyectoempleado\empleadojpa\persistencia\ControladoraPersistencia.class
