@@ -38,6 +38,9 @@ El usuario puede:
 
 El objetivo es que se realice un CRUD (Crear, Leer, Actualizar, Borrar) conectado directamente con la base de datos
 
+![usuario eliminado en phpmyadmin](https://github.com/beaperezm/PerezMedelBeatriz_pruebatec1/assets/113792109/e3c71a63-3120-4698-a222-a1d15212477b)
+
+
 ## Explicación Código
 
 El proveedor utilizado es EclipseLink
