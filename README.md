@@ -1,12 +1,12 @@
-#Empleados
+# Empleados
 
-![logo](https://github.com/beaperezm/PerezMedelBeatriz_pruebatec1/assets/113792109/0894bc97-f17d-448c-849c-73b583456b54)
+                                               ![logo](https://github.com/beaperezm/PerezMedelBeatriz_pruebatec1/assets/113792109/0894bc97-f17d-448c-849c-73b583456b54)
 
 ##Introducción
 
 Empleados es el desarrollo del backend lógico para la aplicación de gestión de empleados de una empresa.
 
-##Objetivos del proyecto
+## Objetivos del proyecto
 
 El usuario puede:
 
@@ -68,7 +68,8 @@ En el código se han utilizado varias estructuras, entre ellas:
 
 ▫️ Switch para mostrar el menú de opciones
 
-`````switch(opcion) {
+```java
+switch(opcion) {
            case 1:
                 control.crearEmpleado(sc, nuevoEmpleado, empleados);
                 break;
@@ -83,12 +84,14 @@ En el código se han utilizado varias estructuras, entre ellas:
                System.out.println("La opción elegida es incorrecta");
                break;
 
-          }  ```
+          }
+```
 
 ✔️ repetitivas
    ▫️ do - while - controlado por bandera
 
- ```do {
+ ```java
+do {
 
            System.out.println("Menú de opciones");
            System.out.println("1. Insertar Empleado");
@@ -102,10 +105,12 @@ En el código se han utilizado varias estructuras, entre ellas:
            { aquí va más parte del código }
 
 
-       } while(opcion != 6 || bandera == false); ```
+       } while(opcion != 6 || bandera == false);
+```
 
    ▫️ While - controlado por bandera
-            ```   while (bandera == false && empleado.isBorradoLogico() == false) {
+  ```java
+            while (bandera == false && empleado.isBorradoLogico() == false) {
                     System.out.println("¿Qué desea modificar?");
                     System.out.println("1. Nombre");
                     System.out.println("2. Apellido");
@@ -117,23 +122,28 @@ En el código se han utilizado varias estructuras, entre ellas:
 
                     { aquí va más parte del código }
 
-                } ```
+                } 
+ ```
 
 
    ▫️ For - para recorrer Arrays
-     ```         for(Empleado empleadoBucle : empleados) {
-                   empleadoBucle.toString();
-               } ```
+  ```java        
+     for(Empleado empleadoBucle : empleados) {
+          empleadoBucle.toString();
+      } 
+  ```
 
 ✔️ Collections
 
 ▫️ List - ArrayList
 
-```    List<Empleado> empleados = new ArrayList <Empleado>();  ```
+```java    
+List<Empleado> empleados = new ArrayList <Empleado>();
+```
 
 
 
-# Supuestos
+### Supuestos
 
 Algunos de los suspuestos a la hora de crear el proyecto son:
 
@@ -157,7 +167,8 @@ Para poder hacer pruebas en este proyecto se necesita tener instalado JDK prefer
 
 y algunas librerías importadas
 
-````import java.io.Serializable;
+```java
+import java.io.Serializable;
 import java.util.Date;
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -166,7 +177,8 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 import javax.persistence.Temporal;
-import javax.persistence.TemporalType; ```
+import javax.persistence.TemporalType;
+ ```
 
 
 
