@@ -66,7 +66,7 @@ Además también tenemos:
   
 - Clase EmpleadoJpa - en la cual se encuentra el método main
 
-Para cada opción del menú se han creado métodos cada uno con su lógica correspondiente:
+Para cada opción del menú se han creado métodos, cada uno con su lógica correspondiente:
 
 🔹 crearEmpleado -- a través de éste método vamos a insertar a los empleados - se ingresan por teclado - se guardan en el arrayList - y se insertan en la base de datos
 
