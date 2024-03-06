@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/beaperezm/PerezMedelBeatriz_pruebatec1/assets/113792109/0894bc97-f17d-448c-849c-73b583456b54)
 
-##Introducción
+## Introducción
 
 Empleados es el desarrollo del backend lógico para la aplicación de gestión de empleados de una empresa.
 
@@ -162,6 +162,7 @@ Para poder hacer pruebas en este proyecto se necesita tener instalado JDK prefer
 ## Tecnologías utilizadas
 
 ![java](https://github.com/beaperezm/PerezMedelBeatriz_pruebatec1/assets/113792109/6288edf5-8e0f-4beb-9941-b41d3ca33e79)
+
 ![Netbeans](https://github.com/beaperezm/PerezMedelBeatriz_pruebatec1/assets/113792109/eeb75421-0e86-43f5-8db5-404b9710006b)
 
 
