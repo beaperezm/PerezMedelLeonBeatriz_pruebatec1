@@ -42,7 +42,7 @@ El objetivo es que se realice un CRUD (Crear, Leer, Actualizar, Borrar) conectad
 
 El proveedor utilizado es EclipseLink
 
-En el proyecto se ha utilizado el modelo capas:
+En el proyecto se ha utilizado el modelo de capas:
 
 1. Capa interfaz gráfica de usuario (igu) - en esta práctica no hay código dentro de esta capa
    
