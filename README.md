@@ -51,13 +51,14 @@ En el proyecto se ha utilizado el modelo de capas:
 5. Capa de persistencia
 
 Estas tres capas se comunican entre sí mediante clases controladoras - para ello se han creado la
+
 a- Controladora --> que se encuentra dentro de la capa lógica de negocios
 
 b- ControladoraPersistencia --> que se encuentra dentro de la capa de persistencia
 
 Además también tenemos:
 
-- Clase Empleado - con las annotations, atributos (en private), constructores, getters, setters (son los que se usan para acceder a los atributos) y método toString() --> dentro de la lógica de negocio
+- Clase Empleado - con las annotations, atributos (en private), constructores, getters, setters (son los que se usan para acceder o modificar datos de los atributos) y método toString() --> dentro de la lógica de negocio
   
 - CargoException - se encuentra en la lógica de negocio y se utiliza para capturar posible fallo a la hora de filtrar por cargo
   
