@@ -68,7 +68,7 @@ Para cada opción del menú se han creado métodos cada uno con su lógica corre
 
 🔹 mostrarEmpleados -- retorna el listado con todos los empleados activos - se realiza un bucle sobre el ArrayList y utilizando el método toString() de la clase Empleado mostramos los datos
 
-🔹 En el caso de que lo que se quiera sea actualizar algún dato lo que hay que hacer es:
+🔹 En el caso de que lo que se quiera sea actualizar algún dato lo que hace la aplicación es:
 
 - Buscar al empleado que queramos modificar y traer el objeto - de esto se encarga el método traerEmpleadoActualizar
   Si el id insertado no se encuentra muestra un mensaje por consola y no sigue con el proceso
