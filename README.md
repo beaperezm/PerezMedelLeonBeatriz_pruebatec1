@@ -196,7 +196,7 @@ Para poder hacer pruebas en este proyecto se necesita tener instalado JDK prefer
 ![Netbeans](https://github.com/beaperezm/PerezMedelBeatriz_pruebatec1/assets/113792109/eeb75421-0e86-43f5-8db5-404b9710006b)
 
 
-y algunas librerías importadas
+y algunos "imports"
 
 ```java
 import java.io.Serializable;
