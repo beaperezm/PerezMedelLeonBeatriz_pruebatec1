@@ -48,18 +48,24 @@ El proveedor utilizado es EclipseLink
 En el proyecto se ha utilizado el modelo capas:
 
 1. Capa interfaz gráfica de usuario (igu) - en esta práctica no hay código dentro de esta capa
-2. Capa lógica de negocios
-3. Capa de persistencia
+   
+3. Capa lógica de negocios
+   
+5. Capa de persistencia
 
 Estas tres capas se comunican entre sí mediante clases controladoras - para ello se han creado la
 a- Controladora --> que se encuentra dentro de la capa lógica de negocios
+
 b- ControladoraPersistencia --> que se encuentra dentro de la capa de persistencia
 
 Además también tenemos:
 
 - Clase Empleado - con las annotations, atributos (en private), constructores, getters, setters (son los que se usan para acceder a los atributos) y método toString() --> dentro de la lógica de negocio
+  
 - CargoException - se encuentra en la lógica de negocio y se utiliza para capturar posible fallo a la hora de filtrar por cargo
+  
 - Clase EmpleadoJpaController - con todos los métodos crear, editar, filtrar... --> se encuentra dentro de la persistencia
+  
 - Clase EmpleadoJpa - en la cual se encuentra el método main
 
 Para cada opción del menú se han creado métodos cada uno con su lógica correspondiente:
@@ -72,6 +78,7 @@ Para cada opción del menú se han creado métodos cada uno con su lógica corre
 
 - Buscar al empleado que queramos modificar y traer el objeto - de esto se encarga el método traerEmpleadoActualizar
   Si el id insertado no se encuentra muestra un mensaje por consola y no sigue con el proceso
+  
 - Con los métodos actualizar lo que estamos haciendo es guardar el objeto en una nueva instancia, hacer las modificaciones y volver a mandar el objeto de vuelta a la base de datos
   Si se ha realizado la modificación con éxito muestra un mensaje por consola
 
@@ -171,7 +178,9 @@ List<Empleado> empleados = new ArrayList <Empleado>();
 Algunos de los suspuestos a la hora de crear el proyecto son:
 
 - El usuario conoce el ID del empleado.
+  
 - El usuario introduce siempre el cargo escrito igual.
+  
 - El usuario introduce la fecha correctamente.
 
 
