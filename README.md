@@ -1,8 +1,6 @@
 
 ![logo](https://github.com/beaperezm/PerezMedelBeatriz_pruebatec1/assets/113792109/0894bc97-f17d-448c-849c-73b583456b54)
 
-## Introducción
-
 Empleados es el desarrollo del backend lógico para la aplicación de gestión de empleados de una empresa.
 
 ## Objetivos del proyecto
