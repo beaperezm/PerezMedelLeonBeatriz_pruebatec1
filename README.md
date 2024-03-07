@@ -9,28 +9,13 @@ El usuario puede:
 
 ✅ Insertar empleados: el nombre, apellidos, cargo, salario y fecha de inicio
 
-![Insertando usuario](https://github.com/beaperezm/PerezMedelBeatriz_pruebatec1/assets/113792109/213276fb-16cd-4109-9cea-e2b169331aea)
-
-
 ✅ Ver qué empleados hay dados de alta en la base de datos
-
-![listandoEmpleados](https://github.com/beaperezm/PerezMedelBeatriz_pruebatec1/assets/113792109/6d7c7670-2423-4140-834a-345051703fcb)
-
 
 ✅ Actualizar los datos de los empleados
 
-![actualizanddo empleado](https://github.com/beaperezm/PerezMedelBeatriz_pruebatec1/assets/113792109/1bc39edd-0c1b-45ef-b278-903dafaae4a4)
-
-
 ✅ Eliminar empleados
 
-![Usuario eliminado](https://github.com/beaperezm/PerezMedelBeatriz_pruebatec1/assets/113792109/9476b67e-bf53-4198-853a-fafb91803ccb)
-
-
 ✅ Buscar empleados por su cargo - mostrando la información de dichos empleados
-
-![filtrando por cargo](https://github.com/beaperezm/PerezMedelBeatriz_pruebatec1/assets/113792109/34f9694f-040d-4531-9be5-ee95379706c8)
-
 
 
 El objetivo es que se realice un CRUD (Crear, Leer, Actualizar, Borrar) conectado directamente con la base de datos
@@ -180,12 +165,6 @@ Algunos de los suspuestos a la hora de crear el proyecto son:
 - El usuario introduce siempre el cargo escrito igual.
   
 - El usuario introduce la fecha correctamente.
-
-
-
-## Instalación
-
-Para poder hacer pruebas en este proyecto se necesita tener instalado JDK preferiblemente versión 17 y un IDE (preferiblemente NetBeans versión 17 o Intellij IDEA) y... ¡Listo para probar!🚀
 
 
 
