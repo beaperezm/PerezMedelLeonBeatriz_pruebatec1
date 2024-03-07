@@ -101,6 +101,7 @@ switch(opcion) {
 ```
 
 ✔️ repetitivas
+
    ▫️ do - while - controlado por bandera
 
  ```java
@@ -121,7 +122,7 @@ do {
        } while(opcion != 6 || bandera == false);
 ```
 
-   ▫️ While - controlado por bandera
+   ▫️ While
   ```java
             while (bandera == false && empleado.isBorradoLogico() == false) {
                     System.out.println("¿Qué desea modificar?");
