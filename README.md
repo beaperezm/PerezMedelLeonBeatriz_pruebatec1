@@ -91,7 +91,7 @@ switch(opcion) {
                System.out.println(control.mostrarEmpleados(empleados));
                break;
 
-          { aquí va más parte del código }
+          { ... }
 
            default:
                System.out.println("La opción elegida es incorrecta");
@@ -115,7 +115,7 @@ do {
            System.out.println("6. Salir");
            opcion = sc.nextInt();
 
-           { aquí va más parte del código }
+           { ... }
 
 
        } while(opcion != 6 || bandera == false);
@@ -133,7 +133,7 @@ do {
                     System.out.println("6. Salir");
                     opcion = sc.nextInt();
 
-                    { aquí va más parte del código }
+                    { ... }
 
                 } 
  ```
